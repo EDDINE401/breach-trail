@@ -1,0 +1,5 @@
+timestamp,operator_code,nickname,leader,method,level,level_name,time_spent_s,attempts,hints_used
+2026-10-16 11:56:23,HPVMHB,djefry,Lead,scan,3,Flag Captured,15,1,0
+2026-10-16 11:56:23,HPVMHB,djefry,Lead,scan,1,Code Cracked,17,2,0
+2026-10-16 11:56:23,HPVMHB,djefry,Lead,scan,2,Phish Spotted,11,1,0
+2026-10-16 11:56:23,HPVMHB,djefry,Lead,scan,4,Access Granted,23,1,0
